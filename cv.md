@@ -1,25 +1,26 @@
 # **Semen Akinfiev**
 
 ## **Contacts**
+
 * **Phone:** +79325374017
 * **Adress:** Russia, Orenburg city
 * **Telegram:** @Nemes_s
 * **e-mail:** semenakinfiev@mail.ru
 * **GitHub:** Semenakinfiev
-
+___
 ## **About Me**
 I am 33 years old and I know what I want and how to achieve it...
 I want to finish the RS School course to get enough knowledge that will help me find my first job as a developer. 
 Before I found RS School, I had been studying for a year at various free javascript courses. Thanks to the past year of self-study, I have a good idea of what I have to do in a real job and I understand that it is interesting to me. I also understand that I am diligent and smart enough to master the course program and obtain the necessary knowledge and skills.
-
+___
 ## **Education**
 * Pacific State University (Khabarovsk)
 * Code.mu (Course) - independent study and mentor's help
 * youtube tutorials - independent study
-
+___
 ## **Experience** 
 * No development experience...
-
+___
 ## **Skills** 
 * HTML
 * CSS + SCSS
@@ -30,7 +31,7 @@ Before I found RS School, I had been studying for a year at various free javascr
 * Redux Toolkit (basic)
 * TypeScript (elementary)
 * GiT (elementary)
-
+___
 ## **Code Example** 
 ``` javascript
 function solution(string) {
@@ -39,7 +40,8 @@ function solution(string) {
   });
 }
 ```
+___
 ## **English** 
-* I have been learning English on my own for about 1 year, but I have no practice...
+* *I have been learning English on my own for about 1 year, but I have no practice...*
 
 
