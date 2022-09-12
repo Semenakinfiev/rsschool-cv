@@ -40,7 +40,6 @@ function solution(string) {
   });
 }
 ```
-
 ## **English** 
 * *I have been learning English on my own for about 1 year, but I have no practice...*
 
