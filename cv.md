@@ -37,4 +37,4 @@ function solution(string) {
 }
 ```
 ## English
-I have an English level **A2**
+I have an English level **A2** and I'm learning English nowadays
